@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newtaxi-delivery-a979178c.zappy5.app/sitemap.xml
